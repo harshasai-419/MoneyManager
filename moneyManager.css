@@ -1,0 +1,71 @@
+.user-card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  height: 20vh;
+  width: 80%;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+.span-ele {
+  color: #0b69ff;
+}
+.total-con {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  margin-top: 30px;
+  justify-content: center;
+}
+.card-con {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+}
+.input-ele {
+  width: 80%;
+  border: 1px solid;
+  padding: 5px;
+  text-align: center;
+  margin: 10px;
+  border-radius: 3px;
+}
+.form-con {
+  padding: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  margin: 10px;
+  width: 40%;
+}
+.button {
+  padding: 10px;
+  color: #ffffff;
+  background-color: #0b69ff;
+  border-radius: 6px;
+  border-width: 0px;
+}
+.history-con {
+  padding: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 10px;
+  margin: 10px;
+  width: 40%;
+}
+.history-ele {
+  display: flex;
+  justify-content: space-around;
+  width: 75%;
+  margin-left: 10px;
+}
+.bottom-con {
+  display: flex;
+  justify-content: center;
+}
+.history-element {
+  border-width: 1px;
+  border-style: solid;
+}
